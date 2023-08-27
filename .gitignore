@@ -2,6 +2,10 @@
 .idea/
 .iml
 
+# java vs code extension
+
+.project
+
 # Compiled class file
 *.class
 
