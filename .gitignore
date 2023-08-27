@@ -5,6 +5,7 @@
 # java vs code extension
 
 .project
+.classpath
 
 # Compiled class file
 *.class
