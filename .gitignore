@@ -1,7 +1,7 @@
 # idea
 .idea/
-.iml
-
+*.iml
+.gitignore
 # java vs code extension
 
 .project
